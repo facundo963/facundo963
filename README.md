@@ -45,14 +45,14 @@ Me especializo en construir aplicaciones web modernas con un enfoque en **experi
 
 ## 📫 Contacto
 
-- 📧 Email: tuemail@example.com  
-- 💼 LinkedIn: [TuPerfil](https://linkedin.com/in/tu-perfil)  
-- 🐱 GitHub: [TuUsuario](https://github.com/tu-usuario)
+- 📧 Email: facundolopeztech@gmail.com  
+- 💼 LinkedIn: (https://linkedin.com/in/facundo-lopez1999)  
+- 🐱 GitHub: (https://github.com/facundo963)
 
 ---
 
 ## ⚡ Extras
 
 - 🏆 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.  
-- 🌱 Actualmente explorando **Next.js** y **TypeScript**.  
+- 🌱 Actualmente explorando y aprendiendo sobre **IA**.  
 - 🎯 Buscando oportunidades para crecer y crear proyectos con impacto real.
