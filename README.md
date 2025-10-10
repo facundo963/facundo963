@@ -1,6 +1,6 @@
-# 👋 Hola, soy Facu
+# 👋 Hola, soy Facundo Lopez
 
-Desarrollador **Fullstack** apasionado por crear soluciones eficientes y elegantes.  
+Soy Desarrollador **Fullstack** apasionado por crear soluciones eficientes y elegantes.  
 Me especializo en construir aplicaciones web modernas con un enfoque en **experiencia de usuario** y **buenas prácticas de código**.
 
 ---
